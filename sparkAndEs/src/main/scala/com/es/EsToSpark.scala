@@ -32,12 +32,12 @@ object EsToSpark {
     /**
       * 处理DStream数据
       */
-    DStream.dealDStream(sc)
+//    DStream.dealDStream(sc)
 
     /**
       * 数据库保存到ES
       */
-    SparkSQL.dealSparkSQL(sc)
+//    SparkSQL.dealSparkSQL(sc)
 
 
 
